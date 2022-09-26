@@ -1,4 +1,4 @@
-# Portfolio: setup and mobile first
+# Simple youtube page sample - css grid
 
 A simple youtube single page clone project with HTML & CSS. This project version is set up with html-css linters.
 
