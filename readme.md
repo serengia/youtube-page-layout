@@ -5,7 +5,7 @@ A simple youtube single page clone project with HTML & CSS. This project version
 ## Built With
 
 - Html and CSS
-- Stylelint (for style linting)
+- Stylelint(for style linting)
 - Webhint - A customizable linting tool that helps you improve your site's accessibility, speed, cross-browser compatibility, and more by checking your code for best practices and common errors.
 
 ## Getting Started
